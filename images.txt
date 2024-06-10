@@ -1,5 +1,7 @@
 --platform=linux/arm64 nginx:1.25.1
---platform=linux/arm64 mysql:8.0.15
+--platform=linux/arm64 mysql/mysql-server:8.0.16
+--platform=linux/arm64 mysql:8.0.37
+--platform=linux/arm64 mysql:8.4.0
 --platform=linux/arm64 redis:6.2.6
 --platform=linux/arm64 mongo:4.4.9
 --platform=linux/arm64 nickblah/postgis:15.2-postgis-3.3.2
