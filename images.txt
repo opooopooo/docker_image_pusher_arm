@@ -1,5 +1,4 @@
---platform=linux/arm64 emby/embyserver_arm64v8:latest
---platform=linux/arm64 jellyfin/jellyfin:latest
+--platform=linux/arm64 jellyfin/jellyfin:latest-rockchip
 --platform=linux/arm64 gdy666/lucky:latest
 --platform=linux/arm64 diluka/nas-tools:2.9.1
 --platform=linux/arm64 johngong/qbittorrent:4.6.0-4.6.0.10
