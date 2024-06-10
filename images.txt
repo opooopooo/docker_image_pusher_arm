@@ -1,8 +1,8 @@
---platform=linux/arm64 jellyfin/jellyfin:latest-rockchip
+--platform=linux/arm64 jellyfin/jellyfin:latest
 --platform=linux/arm64 gdy666/lucky:latest
 --platform=linux/arm64 diluka/nas-tools:2.9.1
 --platform=linux/arm64 johngong/qbittorrent:4.6.0-4.6.0.10
---platform=linux/arm64 nyanmisaka/jellyfin:latest
+--platform=linux/arm64 nyanmisaka/jellyfin:latest-rockchip
 --platform=linux/arm64 allanpk716/chinesesubfinder:latest
 --platform=linux/arm64 linuxserver/jackett:latest
 --platform=linux/arm64 plexinc/pms-docker:latest
