@@ -1,3 +1,1 @@
---platform=linux/arm64 portainer/portainer-ce:2.20.3
---platform=linux/arm64 xiaoyaliu/alist:latest
---platform=linux/arm64 bitnami/kafka:3.6.2
+--platform=linux/arm64 nickblah/postgis:15.2-postgis-3.3.2
