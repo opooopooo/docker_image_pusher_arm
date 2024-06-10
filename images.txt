@@ -11,10 +11,11 @@
 --platform=linux/arm64 pingcap/tidb:v7.3.0
 --platform=linux/arm64 ubuntu/zookeeper:3.1-22.04_edge
 --platform=linux/arm64 ubuntu/kafka:3.1-22.04_edge
---platform=linux/arm64 hlebalbau/kafka-manager:3.0.0.5-7e7a22e
 --platform=linux/arm64 rabbitmq:3.10.25-management-alpine
---platform=linux/arm64 elasticsearch:6.4.2
+--platform=linux/arm64 elasticsearch:8.14.0
 --platform=linux/arm64 nacos/nacos-server:v2.2.1-slim
+--platform=linux/arm64 nacos/nacos-server:v2.3.2-slim
+--platform=linux/arm64 nacos/nacos-server:v2.1.1-slim
 --platform=linux/arm64 jc21/nginx-proxy-manager:latest
 --platform=linux/arm64 chenzhaoyu94/chatgpt-web:latest
 --platform=linux/arm64 xhofe/alist:latest
