@@ -6,7 +6,7 @@
 --platform=linux/arm64 mongo:4.4.9
 --platform=linux/arm64 nickblah/postgis:15.2-postgis-3.3.2
 --platform=linux/arm64 zookeeper:3.5.9
---platform=linux/arm64 confluentinc/cp-kafka:5.0.1
+--platform=linux/arm64 confluentinc/cp-kafka:7.6.1
 --platform=linux/arm64 bitnami/kafka:3.6.1
 --platform=linux/arm64 pingcap/tidb:v7.3.0
 --platform=linux/arm64 ubuntu/zookeeper:3.1-22.04_edge
