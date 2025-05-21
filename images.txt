@@ -1,1 +1,1 @@
---platform=linux/arm64 nickblah/postgis:15.2-postgis-3.3.2
+arm64v8/python:3.10-slim-bullseye
