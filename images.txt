@@ -1,2 +1,1 @@
---platform=linux/arm64 arm64v8/python:3.10-slim-bullseye 
 --platform=linux/arm64 mcr.microsoft.com/playwright/python:v1.58.0-noble
